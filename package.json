@@ -1,0 +1,10 @@
+{
+  "name": "test-mathjs-nuxt",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "mathjs": "^5.10.3",
+    "nuxt": "^2.7.1"
+  }
+}
